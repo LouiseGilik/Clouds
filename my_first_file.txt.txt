@@ -1,3 +1,0 @@
-testrow
-rowtoindex
-rowtoindex
