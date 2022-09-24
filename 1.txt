@@ -1,1 +1,1 @@
-newrowin 1.txtfile
+fixin 1.txt
